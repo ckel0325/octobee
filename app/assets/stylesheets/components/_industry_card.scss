@@ -1,0 +1,55 @@
+.ind-card {
+  height: 220px;
+  width: 160px;
+}
+
+.ind-header {
+  a {
+    color: rgba(0,0,0,0.8);
+  }
+  a:hover {
+    color: rgba(0,0,0,1);
+    text-decoration: none;
+  }
+}
+.ind-icon {
+  font-size: 100px;
+  text-align: center;
+  a {
+    color: rgba(0,0,0,0.8);
+  }
+  a:hover {
+    color: rgba(0,0,0,1);
+    text-decoration: none;
+  }
+}
+
+.ind-title {
+  font-size: 24px;
+  font-weight: bolder;
+  text-align: center;
+  a {
+    color: rgba(0,0,0,0.8);
+  }
+  a:hover {
+    color: rgba(0,0,0,1);
+    text-decoration: none;
+  }
+}
+
+.ind-tags {
+  font-size: 14px;
+  color: rgba(40,40,40,0.7);
+  text-align: center;
+  a {
+    text-decoration: none;
+  }
+}
+
+.ind-tag {
+  color: rgba(40,40,40,0.7);
+}
+.ind-tag:hover {
+  color: rgba(40,40,40,1);
+  font-weight: bolder;
+}
